@@ -5,5 +5,5 @@
 1. LINEアカウントを友達追加  
 <a href="https://lin.ee/Kuz8BcJ"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>  
 2. 画面下のメニューからアクションを選択（メニューが表示されてない場合はタップして表示）
-![IMG-1](https://github.com/Toho-MLM/reservation/assets/87298805/7bd92c9a-eff0-4829-848a-54ecf7a77513)
+![image1](https://github.com/Toho-MLM/reservation/assets/87298805/43e9a096-154a-49a2-96cc-7e836eb8aa28)
 ## [ソースコード](https://github.com/Toho-MLM/hall-reserve-bot/blob/main/Code.gs)
